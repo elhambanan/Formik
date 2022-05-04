@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
      <header>
-       <h3>React Formik</h3>
+       <h2>React Formik</h2>
      </header>
      <SingUpForm />
     </div>
